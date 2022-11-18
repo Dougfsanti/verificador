@@ -1,0 +1,35 @@
+@charset "UTF-8";
+
+body{
+    background-color: rgb(120, 120, 211);
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    font-size: 14px;
+}
+
+header{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    color: black;
+}
+
+section{
+    background-color: rgba(245, 245, 220, 0.671);
+    border-radius: 10px;
+    padding: 5px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 2px 2px 2px 3px rgba(0, 0, 0, 0.651);
+}
+
+footer{
+    color: black;
+    background-color: rgb(56, 56, 187);
+    font-family: 'Courier New', Courier, monospace;
+    border-radius: 3px;
+    font-style: italic;
+    text-align: center;
+
+
+
+}
